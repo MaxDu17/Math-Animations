@@ -1,0 +1,11 @@
+# This file is used internally by FFMPEG.
+file 'file:G:/Desktop/Working Repository/Math-Animations/media/videos/test/1080p60/partial_movie_files/OpeningManimExample/2649772368_4150766657_2617005020.mp4'
+file 'file:G:/Desktop/Working Repository/Math-Animations/media/videos/test/1080p60/partial_movie_files/OpeningManimExample/2649772368_1-0_2202023719.mp4'
+file 'file:G:/Desktop/Working Repository/Math-Animations/media/videos/test/1080p60/partial_movie_files/OpeningManimExample/2649772368_773594158_1076698043.mp4'
+file 'file:G:/Desktop/Working Repository/Math-Animations/media/videos/test/1080p60/partial_movie_files/OpeningManimExample/2649772368_1-0_2024237563.mp4'
+file 'file:G:/Desktop/Working Repository/Math-Animations/media/videos/test/1080p60/partial_movie_files/OpeningManimExample/2649772368_2239798724_2280831025.mp4'
+file 'file:G:/Desktop/Working Repository/Math-Animations/media/videos/test/1080p60/partial_movie_files/OpeningManimExample/2649772368_1-0_2782218060.mp4'
+file 'file:G:/Desktop/Working Repository/Math-Animations/media/videos/test/1080p60/partial_movie_files/OpeningManimExample/2649772368_2431779322_4126576237.mp4'
+file 'file:G:/Desktop/Working Repository/Math-Animations/media/videos/test/1080p60/partial_movie_files/OpeningManimExample/2649772368_1-0_2379155895.mp4'
+file 'file:G:/Desktop/Working Repository/Math-Animations/media/videos/test/1080p60/partial_movie_files/OpeningManimExample/2649772368_3505850458_663914889.mp4'
+file 'file:G:/Desktop/Working Repository/Math-Animations/media/videos/test/1080p60/partial_movie_files/OpeningManimExample/2649772368_1-0_570284082.mp4'
