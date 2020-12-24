@@ -1,4 +1,4 @@
-from manim import *
+from manimlib.imports import *
 
 class SquareToCircle(Scene):
     def construct(self):
@@ -23,7 +23,7 @@ class OpeningManimExample(Scene):
             FadeInFrom(basel, UP),
         )
         self.wait()
-
+    '''
         transform_title = Tex("That was a transform")
         transform_title.to_corner(UP + LEFT)
         self.play(
@@ -65,3 +65,4 @@ class OpeningManimExample(Scene):
         self.wait()
         self.play(Transform(grid_title, grid_transform_title))
         self.wait()
+    '''
